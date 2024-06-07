@@ -1,0 +1,47 @@
+.insurance-form-container {
+    width: 50%;
+    margin: auto;
+  }
+  
+  h4{
+    margin-top: 40px;
+    margin-bottom: 15px;
+  }
+  .form-section {
+    margin-bottom: 20px;
+  }
+
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .error {
+    border: 1px solid red;
+  }
+  
+  .error-message {
+    color: red;
+    margin-top: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .form-buttons button {
+    padding: 7px 0;
+    font-size: 16px;
+    border-radius: 10;
+    border: none;
+    font-weight: 600;
+    font-size: 0.9rem;
+    margin-top: 30px;
+    margin-bottom: 40px;
+  }
+  

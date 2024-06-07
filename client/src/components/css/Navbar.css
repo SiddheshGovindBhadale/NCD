@@ -1,0 +1,95 @@
+/* main navigation */
+nav{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f7f7f7;
+}
+
+nav li{
+    list-style: none;
+    text-decoration: none;
+    border: 1px solid #eeeeee !important;
+    padding: 25px 25px 10px 25px !important;
+    margin: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1) !important;
+}
+
+nav li img{
+    height: 90px;
+}
+
+nav li .nav-link p{
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 600;
+    margin-top: 5px;
+    text-transform: capitalize;
+}
+
+/* organization navbar  */
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1) !important;
+    padding: 5px 15px;
+    width: 100%;
+    background-color: #ffffff;
+    position: absolute;
+}
+
+.navbar .left img{
+    height: 55px;
+    margin: 2px 0;
+}
+
+.navbar .right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar .right .nav_links button{
+    border: none;
+    padding: 0;
+    background-color: #ffffff;
+    font-size: .9rem;
+    font-weight: 620;
+    color: #0e0e0e;
+    text-transform: capitalize;
+    margin: 0 6px;
+}
+
+.navbar .right .details{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 20px;
+}
+
+.navbar .right .details img{
+    height: 20px;
+    margin: 5px;
+}
+
+.navbar .right .details p{
+    margin-bottom: 0 !important;
+    font-size: .9rem;
+    font-weight: 620;
+}
+
+.navbar .right .details i{
+    font-size: 1.2rem;
+    color: #001F3F;
+    transform: rotate(180deg);
+    margin-left: 5px;
+}
+
+.block{
+ width: 100vw;
+ height: 69px;
+}

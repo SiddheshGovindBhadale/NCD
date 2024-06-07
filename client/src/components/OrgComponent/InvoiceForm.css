@@ -1,0 +1,128 @@
+.invoice_container {
+    background-color: #f2f3f7;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* padding: 79px 0 10px 0; */
+}
+
+.invoice-form-container {
+    max-width: 900px;
+    width: 100%;
+    margin: 20px auto;
+    padding: 20px;
+    /* border: 1px solid #ccc; */
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.invoice_container .items-section {
+    margin-top: 20px;
+}
+
+th {
+    font-size: .9rem;
+    font-weight: 500;
+}
+
+.invoice_container label{
+    margin-right: 5px;
+    font-weight: 500;
+}
+
+.invoice_container .head label{
+    margin-right: 5px;
+    font-weight: 500;
+}
+
+.invoice_container h3 {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.invoice_container .head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.invoice_container .head div{
+    display: flex; 
+    align-items: center;
+    justify-content: space-between;
+}
+
+.invoice_container .head .generateCodeBtn{
+    margin-left: 7px;
+}
+/*  details section  */
+.invoice_container .details {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 30px 0;
+}
+
+.invoice_container .details div{
+    margin: 10px 0;
+}
+
+/* .details h3{
+    font-size: 1.1rem;
+} */
+
+.invoice_container .item-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.invoice_container input{
+    max-width: 230px;
+    margin-bottom: 0px;
+}
+
+.invoice_container .totals-section {
+    margin-top: 20px;
+}
+
+.invoice_container p {
+    margin: 5px 0;
+}
+
+.invoice_container .bottom{
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column; 
+}
+
+.invoice_container .bottom .totals-section{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    width: 202px;
+}
+
+.invoice_container button{
+    padding: 8px 13px;
+    font-size: .8rem;
+    color: #ffffff;
+}
+
+.invoice_container .bottom button{
+    padding: 8px 26px;
+    font-weight: 700;
+    margin: 15px 5px 10px 5px;
+    background-color: none;
+}
+
+/* .invoice_container .bottom .cancel{
+    background-color: ;
+}
+
+.invoice_container .bottom .create{
+    background-color: ;
+} */

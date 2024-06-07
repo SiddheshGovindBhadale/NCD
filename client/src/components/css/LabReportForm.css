@@ -1,0 +1,28 @@
+h3{
+    margin-top: 50px;
+}
+
+.PatientDetailsWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 15px;
+    flex-wrap: wrap;
+    /* margin-bottom: 50px; */
+}
+
+.specimenContainer input{
+    max-width: 100%;
+    margin-bottom: 15px;
+}
+.specimenContainer textarea{
+    max-width: 100%;
+    margin-bottom: 15px;
+}
+
+.LabDetailsWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+}

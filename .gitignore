@@ -1,0 +1,15 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+
+server\node_modules
+client\node_modules
+App\Backend - Api\node_modules
+App\NCD\node_modules
