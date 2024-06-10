@@ -1,7 +1,5 @@
 <h1>Link - </h1>
-in [Section 'Features'](#ssFeatures) 
-
-## Features <a id='ssFeatures'></a>
+https://main--ncdweb.netlify.app/
 
 <h1>Screenshorts -</h1>
 
