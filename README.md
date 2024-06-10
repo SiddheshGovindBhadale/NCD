@@ -1,4 +1,4 @@
-Screenshorts
+<h1>Screenshorts</h1>
 
 <p align="center">
 <kbd><img src="https://github.com/SiddheshGovindBhadale/NCD/assets/82762994/b7bc9be9-b688-4005-ae1c-62dfe92983c1" width=250 height=500></kbd>&nbsp;&thinsp;
