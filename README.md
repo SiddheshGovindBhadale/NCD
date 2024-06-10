@@ -1,0 +1,11 @@
+![Screenshot_2024-06-10-12-50-55-55](https://github.com/SiddheshGovindBhadale/NCD/assets/82762994/cde84506-1c98-47b1-a32c-aaf8008debf3)
+![Screenshot_2024-06-10-12-50-47-78_089a0ee5ade6c2bc8bbf968d251ecf6c
+![Screenshot_2024-06-10-12-18-29-17_089a0ee5ade6c2bc8bbf968d251ecf6c](https://github.com/SiddheshGovindBhadale/NCD/assets/82762994/e0c150ed-9
+![Screenshot_2024-06-10-12-18-58-18_089a0ee5ade6c2bc8bbf968d251ecf6c](https://github.com/SiddheshGovindBhadale/NCD/assets/82762994/cabd2d44-2c04-4c43-aa4e-6a9f5
+![Screenshot_2024-06-10-12-18-38-26_089a0ee5ade6c2bc8bbf968d251ecf6c](https://github.com/SiddheshGovindBhadale/NCD/assets/82762994/b80e072e-412b-468e-a8d4-479887e9f5ef)
+92d04fc)
+70c-4d44-b57e-0df1dfa80f83)
+](https://github.com/SiddheshGovindBhadale/NCD/assets/8
+![Screenshot_2024-06-10-12-18-50-44_089a0ee5ade6c2bc8bbf968d251ecf6c](https://github.com/SiddheshGovindBhadale/NCD/assets/82762994/5d223640-c9de-4241-aa81-371d7f82687d)
+2762994/6a1115ae-4451-4256-9065-556d8347a1d6)
+![Screenshot_2024-06-10-12-18-34-87_089a0ee5ade6c2bc8bbf968d251ecf6c](https://github.com/SiddheshGovindBhadale/NCD/assets/82762994/55b3d421-b605-4f4c-89b2-2bb17502c5ea)
